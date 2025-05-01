@@ -13,6 +13,9 @@
       https://nuget.samboy.dev/v3/index.json
     </RestoreAdditionalProjectSources>
     <RootNamespace>AccountManagementPlugin</RootNamespace>
+    <Company>Celestial Corp</Company>
+    <Authors>Macha Celeste</Authors>
+    <Title>Account Management Plugin</Title>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
